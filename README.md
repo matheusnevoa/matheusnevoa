@@ -5,22 +5,12 @@
 Me chamo Matheus Névoa, sou Analista de Sistemas com mais de 4 anos de experiência, especializado em _TOTVS Fluig_ e desenvolvimento Front-End moderno. Tenho mais de 15 certificações oficiais em Fluig e tecnologias web. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Descomplica e sou apaixonado por transformar processos corporativos complexos em soluções eficientes, utilizando minha expertise em _*Inteligência Artificial*_. Sou reconhecido por integrar a visão estratégica de automação com o desenvolvimento tecnológico, gerando resultados mensuráveis para as organizações.
 
 <p align="left">
- <a href="https://www.youtube.com/@larissakich">
-    <a href="https://github.com/matheusnevoa?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/matheusnevoa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/matheusnevoa?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/matheusnevoa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="">
+   <a href="https://instagram.com/nnevoa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/nnevoa" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/sQBAGzhyTV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:matheuslnevoa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-n%C3%A9voa-b65b90115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a>
         <img 
             src="https://custom-icon-badges.demolab.com/badge/Porto Alegre-BRZ-green?style=for-the-badge&logo=location&logoColor=white"
         />
@@ -73,21 +63,3 @@ Me chamo Matheus Névoa, sou Analista de Sistemas com mais de 4 anos de experiê
 />
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=matheusnevoa&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnevoa&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
