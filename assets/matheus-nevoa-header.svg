@@ -1,0 +1,82 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.48" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#164E63"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="335" y1="87" x2="875" y2="255" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC"/>
+      <stop offset="0.52" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="mist" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#E0F2FE" stop-opacity="0.14"/>
+      <stop offset="0.52" stop-color="#BAE6FD" stop-opacity="0.24"/>
+      <stop offset="0.82" stop-color="#5EEAD4" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 157) rotate(90) scale(220 610)">
+      <stop stop-color="#0EA5E9" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#020617" flood-opacity="0.55"/>
+    </filter>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#7DD3FC" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="360" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#glow)"/>
+
+  <g opacity="0.8">
+    <path d="M34 105L119 57L193 99L273 45" stroke="#38BDF8" stroke-opacity="0.16" stroke-width="1.5"/>
+    <circle cx="34" cy="105" r="4" fill="#38BDF8"/>
+    <circle cx="119" cy="57" r="4" fill="#7DD3FC"/>
+    <circle cx="193" cy="99" r="4" fill="#2DD4BF"/>
+    <circle cx="273" cy="45" r="4" fill="#38BDF8"/>
+    <path d="M927 59L1006 101L1085 55L1167 109" stroke="#2DD4BF" stroke-opacity="0.18" stroke-width="1.5"/>
+    <circle cx="927" cy="59" r="4" fill="#38BDF8"/>
+    <circle cx="1006" cy="101" r="4" fill="#2DD4BF"/>
+    <circle cx="1085" cy="55" r="4" fill="#7DD3FC"/>
+    <circle cx="1167" cy="109" r="4" fill="#2DD4BF"/>
+  </g>
+
+  <circle cx="600" cy="144" r="74" fill="#38BDF8" fill-opacity="0.07" filter="url(#softGlow)"/>
+
+  <g filter="url(#shadow)">
+    <text x="600" y="143" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="55" font-weight="750" letter-spacing="4">MATHEUS NÉVOA</text>
+    <rect x="307" y="168" width="586" height="2" rx="1" fill="url(#accent)"/>
+    <text x="600" y="207" text-anchor="middle" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="1.3">GESTOR DE AUTOMAÇÃO E IA</text>
+    <text x="600" y="239" text-anchor="middle" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="500" letter-spacing="0.7">n8n  •  TOTVS FLUIG  •  AI-ASSISTED SOFTWARE DEVELOPMENT</text>
+  </g>
+
+  <g>
+    <path d="M-80 284C88 249 165 314 329 280C485 248 571 302 720 274C882 243 1020 303 1280 253V387H-80V284Z" fill="url(#mist)"/>
+    <path d="M-90 309C97 276 209 337 370 304C531 271 657 331 805 302C963 271 1071 315 1280 284" stroke="#E0F2FE" stroke-opacity="0.12" stroke-width="2"/>
+    <path d="M-70 329C103 298 241 349 403 321C585 289 685 344 851 317C1000 293 1103 326 1267 308" stroke="#5EEAD4" stroke-opacity="0.11" stroke-width="2"/>
+  </g>
+
+  <g opacity="0.9">
+    <rect x="406" y="273" width="110" height="31" rx="15.5" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.45"/>
+    <text x="461" y="294" text-anchor="middle" fill="#7DD3FC" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">AUTOMAÇÃO</text>
+    <rect x="530" y="273" width="75" height="31" rx="15.5" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.45"/>
+    <text x="567.5" y="294" text-anchor="middle" fill="#7DD3FC" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">IA</text>
+    <rect x="613" y="273" width="200" height="31" rx="15.5" fill="#0F172A" stroke="#2DD4BF" stroke-opacity="0.45"/>
+    <text x="713" y="294" text-anchor="middle" fill="#5EEAD4" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">SISTEMAS CORPORATIVOS</text>
+  </g>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="358.5" rx="23.25" stroke="#7DD3FC" stroke-opacity="0.13" stroke-width="1.5"/>
+</svg>
