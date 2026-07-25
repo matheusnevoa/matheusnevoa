@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/matheus-nevoa-header.svg" width="100%" alt="Matheus Névoa — Gestor de Automação e IA">
+  <img src="./assets/matheus-nevoa-header.jpg" width="100%" alt="Matheus Névoa — Gestor de Automação e IA">
 </p>
 
 <p align="center">
@@ -32,13 +32,13 @@ Gosto de entender o problema antes de escolher a tecnologia. A partir disso, des
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Tech Leads Club</h3>
+      <h3>💎 Tech Leads Club</h3>
       <strong>Gestor de Automação e IA</strong>
       <br><br>
       Estruturo e desenvolvo os sistemas de automação que sustentam operações de <strong>marketing, vendas e receita</strong>. Conecto n8n, CRM, formulários, e-mail, WhatsApp, dados e IA para transformar rotinas manuais em operações mais eficientes e confiáveis.
     </td>
     <td width="50%" valign="top">
-      <h3>🔷 Future Station</h3>
+      <h3>🚀 Future Station</h3>
       <strong>Analista e Desenvolvedor Fluig Sênior & Gestor de Automação e IA</strong>
       <br><br>
       Conduzo projetos corporativos de ponta a ponta com <strong>TOTVS Fluig, automação e inteligência artificial</strong>. Atuo também em um ambiente Fluig de grande escala, com mais de <strong>25 mil usuários</strong>.
